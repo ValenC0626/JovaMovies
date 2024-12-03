@@ -19,7 +19,8 @@ Lenguajes:
 Integrantes: 
 - Johan Ossa
 - Valentina Cifuentes
-  Esto es desarrollado para un proyecto de la Universidad del Valle.
-  Para las asignaturas de: 
+
+Esto es desarrollado para un proyecto de la Universidad del Valle.
+Para las asignaturas de: 
 - Desarrollo de Software II y III
 - Diseño de Interfaz de Usuario 
